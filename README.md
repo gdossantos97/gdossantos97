@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Gabriel!!
 - 👀 Out side of development I’m interested in finance, economics, 3d design, and crypto!
-- 🌱 I’m currently taking to full stack development bootcamp course at emeritus! 
+- 🌱 I’m currently taking to full stack bootcamp with a focus in the MERN stack. 
 - 💞️ I’m looking to collaborate on anything that can help build my overall portfolio!
 - 📫 Shoot me a message! Lets do something amazing! 
 
