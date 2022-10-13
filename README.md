@@ -2,6 +2,7 @@
 Hello 👋<br><br>Welcome to my GitHub! 👩🏻‍💻<br>I am a software engineer with a passion in Natural sciences and finance! 💲🔬<br><br>
 
 
+Add me on Linkedin! 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielcostasantos/) 
 
