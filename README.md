@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋<br><br>Welcome to my GitHub! 👩🏻‍💻<br>I am a software engineer with a passion in Natural sciences and finance! 💲🔬
+Hello 👋<br><br>Welcome to my GitHub! 👩🏻‍💻<br>I am a software engineer who loves Science && Finance! 💲🔬 <br> I Help small businesses automate their process and grow organically! --> www.sparx-solutions.com 
 
 
 ## 🌐 Socials:
